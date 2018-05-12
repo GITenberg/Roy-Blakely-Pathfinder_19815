@@ -23,6 +23,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Percy_Keese_Fitzhugh
 description: 'This is book 3 in the Roy Blakeley series. It concludes the story started
   in book 1: Roy Blakely. See PG#10552'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19815#Roy-Blakely-Pathfinder
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2006-11-14'
 gutenberg_type: Text
